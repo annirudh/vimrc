@@ -1,0 +1,10 @@
+// Ignore everything in the root and any subdirs
+/*
+/*/
+
+// Except the .vimrc file and .vim/ dir
+!/.vim/
+!.vimrc
+
+// And of course, the .gitignore itself
+!.gitignore
